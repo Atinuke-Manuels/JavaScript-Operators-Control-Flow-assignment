@@ -31,8 +31,8 @@
     -   =  Not equal
     -   === Strict equal
     -   !== Strict not equal
-    -   >   Greater than
-    -   >=  Greater than or equal
+    -   (> )  Greater than
+    -   (>=)  Greater than or equal
     -   < Less than
     -   <= Less than or equal
 
@@ -49,8 +49,8 @@
     -   ^  Bitwise XOR
     -   ~  Bitwise NOT
     -   << Left shift
-    -   >> Right shift
-    -   >>>Zero-fill right shift
+    -   (>>) Right shift
+    -   (>>>) Zero-fill right shift
 
 ## For each JavaScript Operator, write 2 examples.
 1. Arithmetic Operators
