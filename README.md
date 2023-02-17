@@ -3,14 +3,14 @@
 ## List the symbols for each of the below Javascript operators
 1. Arithmetic Operators
 
-    1. (+) Addition
-    2. (-) Subtraction
-    3. (*) Multiplication
-    4. ** Exponentiation 
-    5. / Division
-    6. % Modulus (Remainder)
-    7. ++ Increment
-    8. -- Decrement
+    -   (+) Addition
+    -   (-) Subtraction
+    -   (*) Multiplication
+    -   ** Exponentiation 
+    -   / Division
+    -   % Modulus (Remainder)
+    -   ++ Increment
+    -   -- Decrement
 
 2. Assignment Operators
     
