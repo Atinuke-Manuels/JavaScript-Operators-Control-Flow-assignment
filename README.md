@@ -3,27 +3,27 @@
 ## List the symbols for each of the below Javascript operators
 1. Arithmetic Operators
 
-    + Addition
-    - Subtraction
-    * Multiplication
-    ** Exponentiation 
-    / Division
-    % Modulus (Remainder)
-    ++ Increment
-    -- Decrement
+    1. (+) Addition
+    2. (-) Subtraction
+    3. (*) Multiplication
+    4. ** Exponentiation 
+    5. / Division
+    6. % Modulus (Remainder)
+    7. ++ Increment
+    8. -- Decrement
 
 2. Assignment Operators
     
-     = assignment
-     += Addition assignment
-     -= Subtraction assignment
-     *= Multiplication assignment
-     /= Division assignment
-     %= Remainder assignment
-     **= Exponentiation assignment
-     &&= Logical AND assignment
-     ||= Logical OR assignment
-     ??= Nullish coalescing assignment
+    1. = assignment
+    2. += Addition assignment
+    3. -= Subtraction assignment
+    4. *= Multiplication assignment
+    5. /= Division assignment
+    6. %= Remainder assignment
+    7. **= Exponentiation assignment
+    8. &&= Logical AND assignment
+    9. ||= Logical OR assignment
+    10. ??= Nullish coalescing assignment
 
 3. Comparison Operators
 
