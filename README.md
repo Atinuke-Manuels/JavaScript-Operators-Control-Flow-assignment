@@ -14,15 +14,15 @@
 
 2. Assignment Operators
     
-    1. = assignment
-    2. += Addition assignment
-    3. -= Subtraction assignment
-    4. *= Multiplication assignment
-    5. /= Division assignment
-    6. %= Remainder assignment
-    7. **= Exponentiation assignment
-    8. &&= Logical AND assignment
-    9. ||= Logical OR assignment
+    1.  = assignment
+    2.  += Addition assignment
+    3.  -= Subtraction assignment
+    4.  *= Multiplication assignment
+    5.  /= Division assignment
+    6.  %= Remainder assignment
+    7.  **= Exponentiation assignment
+    8.  &&= Logical AND assignment
+    9.  ||= Logical OR assignment
     10. ??= Nullish coalescing assignment
 
 3. Comparison Operators
