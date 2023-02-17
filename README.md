@@ -13,43 +13,44 @@
     -- Decrement
 
 2. Assignment Operators
-    = 
-    += Addition assignment
-    -= Subtraction assignment
-    *= Multiplication assignment
-    /= Division assignment
-    %= Remainder assignment
-    **= Exponentiation assignment
-    &&= Logical AND assignment
-    ||= Logical OR assignment
-    ??= Nullish coalescing assignment
+    
+     = assignment
+     += Addition assignment
+     -= Subtraction assignment
+     *= Multiplication assignment
+     /= Division assignment
+     %= Remainder assignment
+     **= Exponentiation assignment
+     &&= Logical AND assignment
+     ||= Logical OR assignment
+     ??= Nullish coalescing assignment
 
 3. Comparison Operators
 
-    ==  Equal
-    !=  Not equal
-    === Strict equal
-    !== Strict not equal
-    >   Greater than
-    >=  Greater than or equal
-    < Less than
-    <= Less than or equal
+     ==  Equal
+     !=  Not equal
+     === Strict equal
+     !== Strict not equal
+     >   Greater than
+     >=  Greater than or equal
+     < Less than
+     <= Less than or equal
 
 4. Logical Operators
 
-    && Logical AND
-    || Logical OR
-    !  Logical NOT   
+     && Logical AND
+     || Logical OR
+     !  Logical NOT   
 
 5. Bitwise Operators
 
-    &  Bitwise AND
-    |  Bitwise OR
-    ^  Bitwise XOR
-    ~  Bitwise NOT
-    << Left shift
-    >> Right shift
-    >>>Zero-fill right shift
+     &  Bitwise AND
+     |  Bitwise OR
+     ^  Bitwise XOR
+     ~  Bitwise NOT
+     << Left shift
+     >> Right shift
+     >>>Zero-fill right shift
 
 ## For each JavaScript Operator, write 2 examples.
 1. Arithmetic Operators
